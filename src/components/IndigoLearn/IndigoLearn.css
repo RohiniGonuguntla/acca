@@ -1,0 +1,25 @@
+.indigo-learn{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(236, 246, 252);
+    height:40vh;
+    margin-top: 2%;
+    padding: 3%;
+}
+@media (max-width: 768px) {
+    .indigo-learn {
+        flex-direction: column;
+        height: auto;
+        padding: 3%;
+        margin-top: 2%;
+    }
+}
+.kick-button{
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    border-width: 0px;
+    padding: 1%;
+}
