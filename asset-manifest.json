@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/acca/static/css/main.355be012.css",
+    "main.js": "/acca/static/js/main.9dc62767.js",
+    "static/js/453.bd15c0ef.chunk.js": "/acca/static/js/453.bd15c0ef.chunk.js",
+    "index.html": "/acca/index.html",
+    "main.355be012.css.map": "/acca/static/css/main.355be012.css.map",
+    "main.9dc62767.js.map": "/acca/static/js/main.9dc62767.js.map",
+    "453.bd15c0ef.chunk.js.map": "/acca/static/js/453.bd15c0ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.355be012.css",
+    "static/js/main.9dc62767.js"
+  ]
+}
